@@ -1,4 +1,2 @@
 Readme
-modification
-blalbla
-ceci est present
+Ceci est le readme. Il est impératif de le lire.
